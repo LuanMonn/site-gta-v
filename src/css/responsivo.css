@@ -60,8 +60,8 @@
 @media (max-width: 420px) {
 
     .compre-ja{
-        padding: 80px 20px;
-        width: 150%;
+        padding: 10px 5px;
+        width: 100%;
     }
 
     main::after{
