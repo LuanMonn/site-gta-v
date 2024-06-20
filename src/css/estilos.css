@@ -125,7 +125,7 @@ body{
 .compre-ja .titulo{
     font-family: 'ChaletComprime';
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 700px;
     margin-bottom: 50px;
 }
 
@@ -149,7 +149,7 @@ body{
 .compre-ja .informacoes h3{
     font-family: 'ChaletComprime';
     font-size: 52px;
-    font-weight: 700;
+    font-weight: 700px;
 }
 
 .compre-ja .informacoes p{
