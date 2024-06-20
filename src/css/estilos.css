@@ -91,7 +91,7 @@ body{
     border: 0.5px solid #fff;
     border-radius: 4px;
     font-family: 'ChaletComprime';
-    font-size: 28px;
+    font-size: 25px;
     text-align: center;
     padding: 20px 40px;
     text-transform: uppercase;
@@ -101,7 +101,7 @@ body{
 
 .btn-plataforma{
     color: #fff;
-    width: 100%;
+    width: 150%;
     cursor: pointer;
 }
 
@@ -155,15 +155,15 @@ body{
 .compre-ja .informacoes p{
     color: #e8e8e8;
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    line-height: 1.6;
+    font-size: 15px;
+    line-height: 1.5;
 }
 
 .compre-ja .informacoes .plataformas
 {
     display: flex;
     flex-wrap: wrap;
-    gap: 32px;
+    gap: 35px;
     justify-content: center;
 }
 
