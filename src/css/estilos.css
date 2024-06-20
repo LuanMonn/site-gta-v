@@ -149,13 +149,13 @@ body{
 .compre-ja .informacoes h3{
     font-family: 'ChaletComprime';
     font-size: 52px;
-    font-weight: 350px;
+    font-weight: 700px;
 }
 
 .compre-ja .informacoes p{
     color: #e8e8e8;
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 1.5;
 }
 
