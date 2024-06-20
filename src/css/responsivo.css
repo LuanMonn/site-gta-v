@@ -28,7 +28,7 @@
 
     .btn-plataforma{
         color: #fff;
-        width: 19cap;
+        width: 17cap;
         cursor: pointer;
     }
 }
@@ -62,14 +62,9 @@
         background: linear-gradient(90deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.4) 100% transparent 65%);
     }
 
-    .compre-ja{
-        padding: 80px 20px;
-        width: 100%;
-    }
-
     .btn-plataforma{
         color: #fff;
-        width: 15;
+        width: 20;
         cursor: pointer;
     }
 }
