@@ -36,7 +36,8 @@
 @media (max-width: 600px){
     .compre-ja{
         padding: 80px 20px;
-        width: 75%;
+        width: 100%;
+}
     }
 
     .compre-ja .informacoes h3{
