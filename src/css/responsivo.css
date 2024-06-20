@@ -23,7 +23,7 @@
     }
 
     .compre-ja .cartao{
-        width: 75%;
+        width: 100%;
     }
 
     .btn-plataforma{
@@ -64,7 +64,7 @@
 
     .btn-plataforma{
         color: #fff;
-        width: 30px;
+        width: 20cap;
         cursor: pointer;
     }
 }
