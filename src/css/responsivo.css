@@ -36,7 +36,7 @@
 @media (max-width: 600px){
     .compre-ja{
         padding: 80px 20px;
-        width: 115%;
+        width: 100%;
 }
     }
 
@@ -60,8 +60,8 @@
 @media (max-width: 420px) {
 
     .compre-ja{
-        padding: 20px 10px;
-        width: 75%;
+        padding-bottom: 0%;
+        width: 100%;
     }
 
     main::after{
