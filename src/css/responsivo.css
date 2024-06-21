@@ -59,11 +59,6 @@
 
 @media (max-width: 420px) {
 
-    .compre-ja{
-        padding-bottom: 0%;
-        width: 100%;
-    }
-
     main::after{
         background: linear-gradient(90deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.4) 100% transparent 65%);
     }
